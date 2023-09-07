@@ -1,3 +1,4 @@
+# Version trước khi fork https://github.com/mrrfv/cloudflare-gateway-pihole-scripts/tree/1e35f935837fc406086f4e5e9c05989304329088 dc upload lại
 # Cloudflare Gateway Pi-hole Scripts (CGPS)
 
 ![Cloudflare Gateway Analytics screenshot](.github/images/gateway_analytics.png)
